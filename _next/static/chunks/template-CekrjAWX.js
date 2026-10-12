@@ -1,0 +1,1 @@
+import{r as e}from"./framework-D_rUT4EX.js";import{n as t,t as n}from"./react-DH-MTJdB.js";var r=e();function i({children:e}){let i=t();return(0,r.jsx)(n.div,{initial:i?!1:{opacity:0,y:10},animate:{opacity:1,y:0},transition:{duration:.42,ease:[.22,1,.36,1]},children:e})}export{i as default};
