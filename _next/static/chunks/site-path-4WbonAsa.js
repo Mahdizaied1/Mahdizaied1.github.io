@@ -1,1 +1,0 @@
-import{t as e}from"./createLucideIcon-y-7dqYhu.js";var t=e(`arrow-up-right`,[[`path`,{d:`M7 7h10v10`,key:`1tivn9`}],[`path`,{d:`M7 17 17 7`,key:`1vkiza`}]]);function n(e){let t=`/portfolio-mahdi`;return!e.startsWith(`/`)||t===``?e:/\.[a-z0-9]+$/i.test(e)?`${t}${e}`:`${t}${e.endsWith(`/`)?e:`${e}/`}`}export{t as n,n as t};
